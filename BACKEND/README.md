@@ -48,4 +48,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Contact:** Your Name —devansh2634gupta@gmail.com
+**Contact:** - devansh2634gupta@gmail.com
