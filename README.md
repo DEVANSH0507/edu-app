@@ -1,4 +1,4 @@
-# StudyNotion - Education Website Backend
+# CHESS COURSE - Education Website Backend
 
 ## Project Overview
 StudyNotion is a full-featured education platform backend designed to manage courses, categories, users, and sections efficiently. This backend supports RESTful APIs for frontend integration and includes cloud services integration.
